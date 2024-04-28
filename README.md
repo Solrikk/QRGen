@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/searching.png" width="30%"/>
+  <img src="https://github.com/Solrikk/QRGen/blob/main/assets/QRGen.png" width="30%"/>
 </div>
 
 <div align="center">
