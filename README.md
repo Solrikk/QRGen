@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3> <a href="https://github.com/Solrikk/Echo-Image/blob/main/README.md"> English | <a href="https://github.com/Solrikk/Echo-Image/blob/main/README_RU.md">Русский</a> | <a href="https://github.com/Solrikk/Echo-Image/blob/main/README_GE.md"> Deutsch </a> | <a href="https://github.com/Solrikk/Echo-Image/blob/main/README_JP.md"> 日本語 </a> | <a href="README_KR.md">한국어</a> | <a href="README_CN.md">中文</a> </h3>
+  <h3> <a href="https://github.com/Solrikk/QRGen/blob/main/README.md"> English | <a href="https://github.com/Solrikk/QRGen/blob/main/README_RU.md">Русский</a> | <a href="https://github.com/Solrikk/QRGen/blob/main/README_GE.md"> Deutsch </a> | <a href="https://github.com/Solrikk/QRGen/blob/main/README_JP.md"> 日本語 </a> | <a href="README_KR.md">한국어</a> | <a href="README_CN.md">中文</a> </h3>
 </div>
 
 -----------------
