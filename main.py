@@ -43,7 +43,7 @@ def form():
             </style>
         </head>
         <body>
-            <h1>QR Code Generator</h1>
+            <h1>QRGen</h1>
             <form action="/qr/" method="post">
                 <input type="text" name="data" placeholder="Enter text or link here"/>
                 <input type="submit"/>
