@@ -33,4 +33,3 @@ To get QRGen running locally, you'll need Python 3.7+ and the installed dependen
 ``uvicorn main:app --reload``
 
 After starting the server, navigate to http://127.0.0.1:8000 in your browser to start using the application.
-
