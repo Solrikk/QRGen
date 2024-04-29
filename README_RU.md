@@ -13,8 +13,8 @@
 _**QRGen**_ это веб-приложение на базе FastAPI, предназначенное для генерации QR-кодов из любых текстовых данных, включая ссылки, которые пользователи могут легко сканировать с помощью мобильных устройств. Он предлагает простое, но мощное решение для генерации QR-кодов "на лету".
 
 **Features:**
-- _**Ease of Use:**_ QRGen offers a straightforward web interface, making the process of generating QR codes quick and hassle-free.
-- _**Flexibility:**_ Generate QR codes for any data - text, URLs, product identifiers, and more.
+- _**Простота использования:**_ - QRGen предлагает простой веб-интерфейс, что делает процесс генерации QR-кодов быстрым и беспроблемным.
+- _**Гибкость:**_ - Генерирация QR-кодов для любых данных - текста, URL-адресов, идентификаторов продуктов и многого другого.
 - _**Customization:**_ The application provides options to customize the QR code parameters, including error correction level, size, and borders.
 
 **Technologies:**
