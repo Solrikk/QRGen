@@ -23,7 +23,7 @@ This application is developed with the following technologies:
 - QRCode: A library for generating QR codes in Python.
 - HTML/CSS: Fundamentals of web design for crafting the user interface.
 
-Getting Started
+## Getting Started
 To get QRGen running locally, you'll need Python 3.7+ and the installed dependencies. Follow these steps:
 1. Clone the repository:
 ``git clone your_repository_url``
