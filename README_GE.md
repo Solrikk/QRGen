@@ -10,7 +10,7 @@
 
 # QRGen ⚡️
 
-_**QRGen**_ is a FastAPI-based web application designed for generating QR codes from any text data including links which users can easily scan using mobile devices. It offers a simple yet powerful solution for on-the-fly QR code generation.
+_ **QRGen**_ ist eine schnelle API-basierte Webanwendung zum Generieren von QR-Codes aus beliebigen Textdaten, einschließlich Links, die Benutzer einfach mit mobilen Geräten scannen können. Es bietet eine einfache, aber leistungsstarke Lösung für die schnelle QR-Code-Generierung.
 
 **Features:**
 - _**Ease of Use:**_ QRGen offers a straightforward web interface, making the process of generating QR codes quick and hassle-free.
